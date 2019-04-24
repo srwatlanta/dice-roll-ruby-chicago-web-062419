@@ -1,4 +1,5 @@
 
-def roll
-  rand(1..6)
+def roll(num)
+  num = [1,2,3,4,5,6]
+  rand(num)
 end
